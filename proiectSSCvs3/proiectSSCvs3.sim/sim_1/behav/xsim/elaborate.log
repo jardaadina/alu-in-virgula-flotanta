@@ -1,0 +1,35 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto e3f1e7d9ec62403bb1a3f58aec6d33ce --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot main_tb_behav xil_defaultlib.main_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.reg [reg_default]
+Compiling architecture behavioral of entity xil_defaultlib.ual1 [ual1_default]
+Compiling architecture behavioral of entity xil_defaultlib.rightShifter [rightshifter_default]
+Compiling architecture behavioral of entity xil_defaultlib.sumatorPe1Bit [sumatorpe1bit_default]
+Compiling architecture behavioral of entity xil_defaultlib.sumatorMantise [sumatormantise_default]
+Compiling architecture behavioral of entity xil_defaultlib.scazatorMantise [scazatormantise_default]
+Compiling architecture behavioral of entity xil_defaultlib.UAL2 [ual2_default]
+Compiling architecture behavioral of entity xil_defaultlib.normalizare [normalizare_default]
+Compiling architecture behavioral of entity xil_defaultlib.rotunjire [rotunjire_default]
+Compiling architecture behavioral of entity xil_defaultlib.FSM [fsm_default]
+Compiling architecture behavioral of entity xil_defaultlib.sumatorExponenti [sumatorexponenti_default]
+Compiling architecture behavioral of entity xil_defaultlib.inmultireaMatricelor [inmultireamatricelor_default]
+Compiling architecture behavioral of entity xil_defaultlib.inmultireaMantiselor [inmultireamantiselor_default]
+Compiling architecture behavioral of entity xil_defaultlib.verificaExponenti [verificaexponenti_default]
+Compiling architecture behavioral of entity xil_defaultlib.normalizareInmultire [normalizareinmultire_default]
+Compiling architecture behavioral of entity xil_defaultlib.incrementeazaExponent [incrementeazaexponent_default]
+Compiling architecture behavioral of entity xil_defaultlib.FSM2 [fsm2_default]
+Compiling architecture behavioral of entity xil_defaultlib.main [main_default]
+Compiling architecture behavioral of entity xil_defaultlib.main_tb
+Built simulation snapshot main_tb_behav

@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../proiectSSCvs3.srcs/sources_1/new/inmultireaMantiselor.vhd" \
+"../../../../proiectSSCvs3.srcs/sources_1/new/inmultitorMatrice.vhd" \
+"../../../../proiectSSCvs3.srcs/sources_1/new/sumatorMantise.vhd" \
+"../../../../proiectSSCvs3.srcs/sources_1/new/sumatorPe1Bit.vhd" \
+"../../../../proiectSSCvs3.srcs/sim_1/new/inmultireaMantiselor_tb.vhd" \
+
+# Do not sort compile order
+nosort

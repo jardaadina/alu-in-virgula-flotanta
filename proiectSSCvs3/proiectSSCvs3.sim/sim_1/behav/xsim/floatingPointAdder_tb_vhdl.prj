@@ -1,0 +1,16 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../proiectSSCvs3.srcs/sources_1/new/floatingPointAdder.vhd" \
+"../../../../proiectSSCvs3.srcs/sources_1/new/normalizare.vhd" \
+"../../../../proiectSSCvs3.srcs/sources_1/new/reg.vhd" \
+"../../../../proiectSSCvs3.srcs/sources_1/new/rightShifter.vhd" \
+"../../../../proiectSSCvs3.srcs/sources_1/new/rotunjire.vhd" \
+"../../../../proiectSSCvs3.srcs/sources_1/new/scazatorMantise.vhd" \
+"../../../../proiectSSCvs3.srcs/sources_1/new/sumatorMantise.vhd" \
+"../../../../proiectSSCvs3.srcs/sources_1/new/sumatorPe1Bit.vhd" \
+"../../../../proiectSSCvs3.srcs/sources_1/new/ual1.vhd" \
+"../../../../proiectSSCvs3.srcs/sources_1/new/ual2.vhd" \
+"../../../../proiectSSCvs3.srcs/sim_1/new/floatingPointAdder_tb.vhd" \
+
+# Do not sort compile order
+nosort
