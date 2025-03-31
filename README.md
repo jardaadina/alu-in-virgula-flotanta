@@ -4,30 +4,32 @@ Acest proiect are ca scop proiectarea și implementarea unei unități aritmetic
 Scopul Proiectului
 Proiectul urmărește dezvoltarea unei unități aritmetico-logice (ALU) eficiente și precise pentru operațiile de adunare și înmulțire a numerelor în virgulă flotantă, care să fie aplicabilă în sisteme de calcul ce necesită un nivel ridicat de precizie și optimizare a procesării datelor numerice complexe.
 
-Structura Proiectului
+## Structura Proiectului
 Introducere
-
 Context și obiective ale proiectului.
 Studiu Bibliografic
-
 Prezentarea unității aritmetico-logice (ALU).
 Soluții pentru erorile de trunchiere și precizia calculelor.
 Reprezentarea numerelor în virgulă flotantă și formatul IEEE 754.
 Detalii despre algoritmii de adunare și înmulțire în virgulă flotantă.
-Analiza
 
+## Analiza
 Algoritmul de adunare și înmulțire.
 Diagrame de flux pentru algoritmi.
-Proiectare
+
+## Proiectare
 
 Schema bloc a arhitecturii unității ALU.
-Implementare
+
+## Implementare
 
 Detalii despre implementarea adunării și înmulțirii în virgulă flotantă folosind VHDL.
-Testare și Validare
+
+## Testare și Validare
 
 Testarea pe FPGA a funcționării unității ALU.
-Concluzii
+
+## Concluzii
 
 Rezultatele obținute din testare și analiza performanței unității ALU.
 Tehnologii și Instrumente Utilizate
@@ -35,7 +37,7 @@ VHDL: Limbajul de descriere hardware utilizat pentru crearea unității ALU.
 Xilinx: Platforma pentru simulare și implementare pe FPGA.
 FPGA: Dispozitivul hardware pe care va fi implementat ALU-ul pentru testare.
 
-Testare
+## Testare
 Testele au fost realizate pentru a verifica:
 
 Corectitudinea operațiilor de adunare și înmulțire.
